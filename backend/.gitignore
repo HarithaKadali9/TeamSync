@@ -1,0 +1,22 @@
+# Backend-specific ignores
+# Node
+node_modules/
+
+# Environment
+.env
+.env.local
+
+# Logs
+logs/
+*.log
+
+# Build / output
+dist/
+build/
+
+# Editor/OS
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
